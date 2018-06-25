@@ -1,5 +1,5 @@
 {
     "tools|block": "micro:bit工具",
     "tools.trunLeft|block": "micro:bit 左轉",
-    "tools.ledOfRectangle|block": "LED顯示長方形面積 長 %length|寬 %width"
+    "tools.trunRight|block": "micro:bit 右轉",
 }

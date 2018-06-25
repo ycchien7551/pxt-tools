@@ -3,8 +3,8 @@ namespace tools {
     /**
     * 計算長方形面積，並回傳
     */
-    //% blockId="areaOfRectangle" block="area of rectangle length %length|width %width"
-    //% blockGap=2 weight=0 blockExternalInputs=true
+    //% blockId="trunLeft" block="trunLeft"
+    //% blockGap=1 weight=0 blockExternalInputs=true
     export function trunLeft () {
         if (input.acceleration(Dimension.X) < -100) {
           return ture;
